@@ -1,3 +1,3 @@
 # Faker datas
 
-This is fake data generated in uzbek languages
+This is fake data generated in uzbek languages 

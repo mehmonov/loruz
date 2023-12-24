@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/loruz/__init__.py
+src/loruz/addresses.py
+src/loruz/fakedata.py
+src/loruz/names.py
+src/loruz/phone_numbers.py
+src/loruz/text.py
+src/loruz/uzbek_data.py
+src/loruz/uzbek_names.py
+src/loruz.egg-info/PKG-INFO
+src/loruz.egg-info/SOURCES.txt
+src/loruz.egg-info/dependency_links.txt
+src/loruz.egg-info/top_level.txt
